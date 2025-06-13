@@ -1,5 +1,4 @@
-PROJETO EXPOTECH 24/05/2025
-Sistema de controle de estoque.
+PROJETO EXPOTECH 24/05/2025 // Sistema de controle de estoque.
 
 
     import mysql.connector
